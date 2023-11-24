@@ -8,9 +8,11 @@ Recipe Finder is a full-stack MERN (MongoDB, Express, React, Node.js) web applic
 
 ## Features
 
--User can search for recipes using keywords, ingredients or cuisine.
--User can create an account and save recipes for future reference.
--user can find recipes based on ingredients
+-Users can search for recipes using keywords, ingredients or cuisine.
+
+-Users can create an account and save recipes for future reference.
+
+-users can find recipes based on ingredients or cuisine
 
 ## Installation
 
@@ -27,7 +29,7 @@ You will also need to create a .env file in the server directory and set the fol
 -React <br />
 -Node.js <br />
 -JWT <br />
--Bootstrap / React Bootstap / Icons <br />
+-Bootstrap / React Bootstrap / Icons <br />
 -Stripe <br />
 -Custom CSS <br />
 -GraphQL <br />
