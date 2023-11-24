@@ -44,7 +44,7 @@ You will also need to create a .env file in the server directory and set the fol
 ## Contributors
 
 [Vaishnavi Prakash](https://github.com/vaishnaviprakash12)
-[Kahksha Babo](https://github.com/kahksha04)
+[Kahksha Bano](https://github.com/kahksha04)
 ## Acknowledgements
 
 -This project was inspired by all those recipe websites that have complete life stories of the writer inserted into the page rather than getting right to the info you want.
