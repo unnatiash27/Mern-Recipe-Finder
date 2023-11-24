@@ -1,18 +1,16 @@
 # Recipe Finder
 
-[RecipeFinder](https://k-meal-planner.herokuapp.com/)
+[RecipeFinder]()
 
 ## Overview
 
-Recipe Finder is a full-stack MERN (MongoDB, Express, React, Node.js) web application that allows users to search and save recipes. The app also allows users to add recipe ingredients to a shopping cart and either order groceries or email a shopping list.
+Recipe Finder is a full-stack MERN (MongoDB, Express, React, Node.js) web application that allows users to search and save recipes. The app also allows users to find recipes based on ingredients or cuisine.
 
 ## Features
 
 -User can search for recipes using keywords, ingredients or cuisine.
 -User can create an account and save recipes for future reference.
--User can add recipe ingredients to a shopping cart or shopping list.
--User can choose to order groceries or email a shopping list.
--User can view the nutrition information for a recipe.
+-user can find recipes based on ingredients
 
 ## Installation
 
